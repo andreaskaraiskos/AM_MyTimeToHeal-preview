@@ -135,7 +135,7 @@ body {
   background-color: #149dcc !important;
 }
 .bg-success {
-  background-color: #f7ed4a !important;
+  background-color: #8d629e !important;
 }
 .bg-info {
   background-color: #82786e !important;
@@ -208,23 +208,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
-  color: #3f3c03 !important;
+  background-color: #8d629e !important;
+  border-color: #8d629e !important;
+  color: #ffffff !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #ffffff !important;
+  background-color: #63456f !important;
+  border-color: #63456f !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #ffffff !important;
+  background-color: #63456f !important;
+  border-color: #63456f !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -372,22 +372,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #d2c609;
-  color: #d2c609;
+  border-color: #553b5f;
+  color: #553b5f;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #3f3c03;
-  background-color: #f7ed4a;
-  border-color: #f7ed4a;
+  color: #ffffff;
+  background-color: #8d629e;
+  border-color: #8d629e;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #3f3c03 !important;
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
+  color: #ffffff !important;
+  background-color: #8d629e !important;
+  border-color: #8d629e !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -470,7 +470,7 @@ body {
   color: #ece1f1 !important;
 }
 .text-success {
-  color: #f7ed4a !important;
+  color: #8d629e !important;
 }
 .text-info {
   color: #82786e !important;
@@ -497,7 +497,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #d2c609 !important;
+  color: #553b5f !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -559,7 +559,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #c6b1cf;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -669,6 +669,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1298,12 +1299,12 @@ body {
 }
 .cid-raDjg1KNfS .navbar {
   padding: .5rem 0;
-  background: #2e193f;
+  background: #efefef;
   transition: none;
   min-height: 77px;
 }
 .cid-raDjg1KNfS .navbar-dropdown.bg-color.transparent.opened {
-  background: #2e193f;
+  background: #efefef;
 }
 .cid-raDjg1KNfS a {
   font-style: normal;
@@ -1391,7 +1392,7 @@ body {
   padding-bottom: 0;
 }
 .cid-raDjg1KNfS .dropdown .dropdown-menu {
-  background: #2e193f;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1462,7 +1463,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #2b0d38;
 }
 .cid-raDjg1KNfS button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1696,7 +1697,7 @@ body {
 .cid-raIEH0G5yZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/am-damask-art-duotone-with-logo-gradiant-2000x2499.png");
+  background-image: url("../../../assets/images/asset-5-1920x1078.png");
 }
 .cid-raIEH0G5yZ .mbr-figure {
   margin: 0 auto;
@@ -1717,7 +1718,7 @@ body {
 .cid-raIKGHzNUt {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/am-damask-art-duotone-with-logo-bg10-damask05-copy-2000x2499.png");
+  background-image: url("../../../assets/images/asset-5-100-1920x1078.jpg");
 }
 .cid-raIKGHzNUt SPAN {
   color: #8d629e;
@@ -1728,23 +1729,89 @@ body {
 .cid-raIKGHzNUt .mbr-section-subtitle DIV {
   color: #2b0d38;
 }
-.cid-raDocXWkO6 {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/am-damask-art-duotone-with-logo-gradiant-2000x2499.png");
+.cid-rkHFmrqKZB {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #232323;
 }
-.cid-raDocXWkO6 .mbr-section-subtitle {
-  color: #dec4e8;
+@media (max-width: 767px) {
+  .cid-rkHFmrqKZB .content {
+    text-align: center;
+  }
+  .cid-rkHFmrqKZB .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
 }
-.cid-raDocXWkO6 .btn {
-  margin: 0 0 .5rem 0;
+@media (max-width: 7670px) {
+  .cid-rkHFmrqKZB .media-wrap {
+    margin-bottom: 1rem;
+  }
 }
-.cid-raDocXWkO6 .mbr-section-subtitle B {
-  color: #dec4e8;
+.cid-rkHFmrqKZB .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
 }
-.cid-raDocXWkO6 SPAN {
-  color: #dec4e8;
+.cid-rkHFmrqKZB .media-wrap img {
+  height: 6rem;
 }
-.cid-raDocXWkO6 H2 {
-  color: #3b1d47;
+@media (max-width: 767px) {
+  .cid-rkHFmrqKZB .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rkHFmrqKZB .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rkHFmrqKZB .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rkHFmrqKZB .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rkHFmrqKZB .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rkHFmrqKZB .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rkHFmrqKZB .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rkHFmrqKZB .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-rkHFmrqKZB B {
+  color: #ffffff;
+}
+.cid-rkHFmrqKZB .copyright > p {
+  color: #8d629e;
+  text-align: left;
+}
+.cid-rkHFmrqKZB H5 {
+  color: #8d629e;
+  text-align: left;
+}
+.cid-rkHFmrqKZB P {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-rkHFmrqKZB A {
+  color: #ffffff;
 }
