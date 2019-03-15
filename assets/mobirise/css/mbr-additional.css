@@ -1740,6 +1740,40 @@ body {
 .cid-raIKGHzNUt .mbr-section-subtitle DIV {
   color: #2b0d38;
 }
+.cid-rkMRnN4zAS {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rkMRnN4zAS .mbr-text,
+.cid-rkMRnN4zAS blockquote {
+  color: #767676;
+}
+.cid-rkMRnN4zAS .mbr-text P {
+  text-align: center;
+  color: #ff3366;
+}
+.cid-rkMRrLKGmf {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rkMRrLKGmf .image-block {
+  margin: auto;
+}
+.cid-rkMRrLKGmf figcaption {
+  position: relative;
+}
+.cid-rkMRrLKGmf figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rkMRrLKGmf .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rkJitXlKt0 {
   padding-top: 30px;
   padding-bottom: 0px;
